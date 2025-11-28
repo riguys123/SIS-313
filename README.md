@@ -33,5 +33,58 @@ Para la implementación del portal cautivo se configuró un entorno virtual comp
 
 De este enlace descargar pfsense  "https://digistorage.net/73kuhrc4" 
 
+## En la maquina con pfsense.- 
+
+hacemos la configuracion de la maquina por consola para asignar las ip a las interfaces. 
+
+una vez en la interfaz nos aparecera un menu con varias opciones las unicas que usaremos seran la 1 y la 2 
+
+press 1 
+(y/n): n enter
+(em0 em1 or a): em0 enter 
+(em0 em1 or a): em1 enter 
+[Y/N]: y enter
+usaremos em0 para la WAN y em1 para la LAN asi ya estarian asignadas 
+
+ahora asignaremos las respectivas ips en la WAN usaremos DHCP para que automaticamente el ISP o router externo nos la asigne.
+
+en la LAN ocuparemos una estatica ya que esta nos servira para los clientes y repartir direcciones 
+
+ahora en el menu nos vamos a la opcion 2
+
+1 enter 
+
+y enter
+
+n enter 
+
+enter
+
+n enter
+
+enter para continuar 
+
+ya se asigno una ip automaticamente, ahora haremos con la LAN y aqui si le asignaremos una ip 
+
+de nuevo presionamos la opcion 2 
+
+2 enter
+
+(ip que tendra la maquina) ejm 10.10.1.254
+
+24 enter
+
+enter
+
+y enter ->activamos nuestro servicio dhcp
+
+10.10.1.40 -> start rango
+
+10.10.1.50 -> end rango
+
+n enter 
+
+enter para continuar
+
 
 
