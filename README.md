@@ -86,5 +86,11 @@ n enter
 
 enter para continuar
 
+## Ahora nos vamos a la maquina virtual de windows XP
+## En la maquina con WindowsXP
+
+** aqui entraremos a la interfaz web de PfSense con la ip estatica que acabamos de asignar "https://10.10.1.254"
+
+
 
 
