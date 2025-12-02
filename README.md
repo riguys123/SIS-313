@@ -228,9 +228,33 @@ aqui creamos los usuarios para el portal cautivo
 
 aqui creamos grupos 
 
+<img width="1232" height="514" alt="image" src="https://github.com/user-attachments/assets/c54af6fb-045d-4837-b47a-6d85668ee53e" />
 
+aqui entramos para luego configurar el ancho de banda
 
+<img width="1203" height="410" alt="image" src="https://github.com/user-attachments/assets/a4c10b26-f9f7-435b-9fa4-c5051c5b0319" />
 
+configuramos el ancho de banda por ususario
+
+<img width="1227" height="883" alt="image" src="https://github.com/user-attachments/assets/15f78495-4dcb-422a-afd7-f0a77d3a0e26" />
+
+entramos al voucher para autenticar a los clientes 
+
+<img width="1235" height="875" alt="image" src="https://github.com/user-attachments/assets/01368214-56fb-4bfb-8a07-857bffbd496d" />
+
+En esta parte configuramos la duracion del internet que podra usar el cliente y el numero de vouchers a generar 
+
+<img width="1172" height="165" alt="image" src="https://github.com/user-attachments/assets/19ecc8a6-4b8f-4e79-bb85-f1b1b89243bc" />
+
+aqui descargamos el archivo de vouchers 
+
+<img width="827" height="475" alt="image" src="https://github.com/user-attachments/assets/f2605d9c-6b07-412b-a601-4f92c1a5415d" />
+
+este es el archivo que se genero 
+
+## Conclusion del proyecto 
+
+La práctica técnica mostrada configura con éxito una solución de control de acceso a la red, utilizando el sistema PfSense para implementar un Portal Cautivo. Esto permite al administrador gestionar y autenticar a los usuarios de la red mediante la emisión de vouchers, asegurando que solo los usuarios autorizados tengan acceso a Internet de manera temporal y controlada.
 
 
 
