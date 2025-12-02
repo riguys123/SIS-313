@@ -35,6 +35,11 @@ De este enlace descargar pfsense  "https://digistorage.net/73kuhrc4"
 
 ## En la maquina con pfsense.- 
 
+<img width="1264" height="655" alt="image" src="https://github.com/user-attachments/assets/807a8b24-421a-486a-a88a-225998a79584" />
+
+<img width="1042" height="466" alt="image" src="https://github.com/user-attachments/assets/586c91c3-0995-4f5c-818c-38c7d106ad4b" />
+
+
 hacemos la configuracion de la maquina por consola para asignar las ip a las interfaces. 
 
 una vez en la interfaz nos aparecera un menu con varias opciones las unicas que usaremos seran la 1 y la 2 
@@ -87,10 +92,42 @@ n enter
 enter para continuar
 
 ## Ahora nos vamos a la maquina virtual de windows XP
+
+descargamos windowsXP "https://drive.google.com/file/d/15WkIfyDBozsMHGsf_QsSJFS_0E9wdmAV/view"
+
+instalamos y colocamos la ISO del paquete que descargamos. 
+
+cambiamos la configuracion a red interna. 
+
 ## En la maquina con WindowsXP
 
 ** aqui entraremos a la interfaz web de PfSense con la ip estatica que acabamos de asignar "https://10.10.1.254"
 
+<img width="725" height="483" alt="image" src="https://github.com/user-attachments/assets/3601152d-787d-4771-ae7c-29382e0bea78" /> 
+
+press enter
+
+<img width="725" height="481" alt="image" src="https://github.com/user-attachments/assets/fb02e800-e8f1-448f-90da-89e868ea7f5a" />
+
+luego en esta imagen nos aparecera los contratos de windows ahi presionamos f8
+
+<img width="715" height="482" alt="image" src="https://github.com/user-attachments/assets/1bd3d41b-202e-455b-9d5d-26effd94471a" />
+
+aqui nos aparecera la particion de la MV aqui presionamos enter 
+
+<img width="719" height="490" alt="image" src="https://github.com/user-attachments/assets/7603df59-2b1c-47cc-9f46-87b85e457fdd" />
+
+aqui seleccionamos "formatea la particion utilizando el sistema de archivos NTFS(rapido)"
+
+luego comienza la particion. 
+
+<img width="637" height="569" alt="image" src="https://github.com/user-attachments/assets/e13dfd74-06a8-4fa4-a7db-718dfd30c404" />
+
+al acabar de instalar nos saldra la ventana de configuracion regionales y de idioma 
+
+<img width="640" height="578" alt="image" src="https://github.com/user-attachments/assets/715296da-5c91-4ba4-aaca-ca1521c08151" />
+
+ponemos el nombre en la casilla de organizacion, es opcional
 
 
 
