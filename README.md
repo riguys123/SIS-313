@@ -44,10 +44,18 @@ hacemos la configuracion de la maquina por consola para asignar las ip a las int
 
 una vez en la interfaz nos aparecera un menu con varias opciones las unicas que usaremos seran la 1 y la 2 
 
+<img width="726" height="488" alt="image" src="https://github.com/user-attachments/assets/37a88b1b-eb3d-4d4b-b9d8-7d91634d0b45" />
+
+
+
 press 1 
 (y/n): n enter
 (em0 em1 or a): em0 enter 
 (em0 em1 or a): em1 enter 
+
+<img width="721" height="498" alt="image" src="https://github.com/user-attachments/assets/80979c09-7b3a-4757-8bad-eaec6f427373" />
+
+
 [Y/N]: y enter
 usaremos em0 para la WAN y em1 para la LAN asi ya estarian asignadas 
 
