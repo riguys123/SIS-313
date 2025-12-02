@@ -137,5 +137,54 @@ al acabar de instalar nos saldra la ventana de configuracion regionales y de idi
 
 ponemos el nombre en la casilla de organizacion, es opcional
 
+<img width="645" height="575" alt="image" src="https://github.com/user-attachments/assets/914aee5c-77a4-4a11-a351-4ecab1a3de0b" />
 
+ponemos la clave del producto de windows xp "M8DPF-XT324-YBKK9-3VF8C-M2X78" 
 
+<img width="640" height="563" alt="image" src="https://github.com/user-attachments/assets/6a18aca6-272d-4b4e-b902-e09a8b422ecf" />
+
+presionamos siguiente sin colocar la contraseña
+
+<img width="641" height="570" alt="image" src="https://github.com/user-attachments/assets/ac9d4691-e65e-4cdb-a89c-98c15357b6ce" />
+
+configuramos la hora y region
+
+<img width="638" height="566" alt="image" src="https://github.com/user-attachments/assets/178d5bf5-a822-4ca9-a7da-44832a49b5fa" />
+
+al configurar la red la dejamos en tipica 
+
+<img width="643" height="576" alt="image" src="https://github.com/user-attachments/assets/bf0c3611-3869-4364-b26b-24448a165d61" />
+
+press siguiente 
+
+<img width="799" height="684" alt="image" src="https://github.com/user-attachments/assets/0c0962da-9c09-4665-8377-8404a54959a2" />
+
+presionamos siguiente
+
+<img width="795" height="689" alt="image" src="https://github.com/user-attachments/assets/cfe3cb7c-bf15-49ac-ad83-9df917d4b760" />
+
+presionamos siguiente
+
+<img width="795" height="689" alt="image" src="https://github.com/user-attachments/assets/5791e7bc-4358-4b85-b518-abdba89a479b" />
+
+seleccionamos la opcion de "no en este momento"
+
+<img width="804" height="699" alt="image" src="https://github.com/user-attachments/assets/b77615b3-0b1b-4def-8783-9d4eaca367e3" />
+
+press omitir
+
+<img width="806" height="695" alt="image" src="https://github.com/user-attachments/assets/b3baa40b-8a0b-4ac1-8e37-accdcca8c5be" />
+
+seleccionamos la opcion de "no en este momento"
+
+<img width="805" height="687" alt="image" src="https://github.com/user-attachments/assets/6dc6d5f8-9a7b-4bc6-9205-400b3e1abadb" />
+
+colocamos un nombre 
+
+<img width="803" height="691" alt="image" src="https://github.com/user-attachments/assets/64688347-9214-42f9-9587-f2a3ad529560" />
+
+y finalizamos
+
+<img width="805" height="691" alt="image" src="https://github.com/user-attachments/assets/99ea63ed-b83d-482c-86bd-0693a688e833" />
+
+y ya estaria intalado windowsXP
