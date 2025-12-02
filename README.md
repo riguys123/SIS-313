@@ -188,3 +188,59 @@ y finalizamos
 <img width="805" height="691" alt="image" src="https://github.com/user-attachments/assets/99ea63ed-b83d-482c-86bd-0693a688e833" />
 
 y ya estaria intalado windowsXP
+
+##Configuraciones en PfSense
+
+<img width="637" height="574" alt="image" src="https://github.com/user-attachments/assets/15f4bc48-df0e-4b45-a839-ade4dce33e04" />
+
+entramos a inicio a mi pc y vemos si nuestra maquina esta conectada con la ip asignada
+
+<img width="639" height="567" alt="image" src="https://github.com/user-attachments/assets/cc94156b-ed86-4a1d-9806-6090fdf24e60" />
+
+desactivamos y activamos
+
+<img width="644" height="581" alt="image" src="https://github.com/user-attachments/assets/9c8540ac-919a-48bb-b7d4-95841e3cf453" />
+
+aqui verificamos la ip
+
+<img width="643" height="570" alt="image" src="https://github.com/user-attachments/assets/b2b38ac9-f3c8-4be4-896c-9b822bfa44f2" />
+
+ponemos la ip para ingresar al pfsense
+
+<img width="654" height="567" alt="image" src="https://github.com/user-attachments/assets/536769f7-4704-4728-b24b-8c096fdb3497" />
+
+aqui nos logueamos 
+
+<img width="844" height="578" alt="image" src="https://github.com/user-attachments/assets/67a655fa-be92-4ce4-be4d-20e5017ec7f7" />
+
+
+ingresamos al pfsense
+
+<img width="857" height="571" alt="image" src="https://github.com/user-attachments/assets/10a22157-0b75-4f0f-9a9d-39d936cb5c9c" />
+
+dentro del pfsense entramos a system a user manger para crear los usuarios para portal cautivo
+
+<img width="1600" height="789" alt="image" src="https://github.com/user-attachments/assets/512cb6f0-6934-431f-9151-fd04eef10fec" />
+
+aqui creamos los usuarios para el portal cautivo
+
+<img width="858" height="574" alt="image" src="https://github.com/user-attachments/assets/ec3ca4e6-1962-47c2-b42b-22d73c7663e1" />
+
+aqui creamos grupos 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
